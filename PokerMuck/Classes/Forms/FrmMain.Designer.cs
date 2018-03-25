@@ -409,8 +409,7 @@
             this.btnCheckForUpdates.TabIndex = 1;
             this.btnCheckForUpdates.Text = "Check for updates";
             this.btnCheckForUpdates.UseVisualStyleBackColor = true;
-            this.btnCheckForUpdates.Click += new System.EventHandler(this.btnCheckForUpdates_Click);
-            // 
+             // 
             // FrmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);

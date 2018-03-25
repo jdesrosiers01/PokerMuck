@@ -191,7 +191,8 @@ namespace PokerMuck
             
             try
             {
-                String[] files = System.IO.Directory.GetFiles(Application.StartupPath + @"\\Resources\\ColorMaps\\" + this.Name);
+                String getFiles = Application.StartupPath + @"\\Resources\\ColorMaps\\" + this.Name;
+                String[] files = System.IO.Directory.GetFiles(getFiles);
 
                 Regex themeName = new Regex(@"[\w]+_[\d]+-max_(?<theme>[\w]+)\.bmp");
 

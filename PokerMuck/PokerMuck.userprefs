@@ -1,0 +1,63 @@
+﻿<Properties StartupConfiguration="{1F70892C-33D0-49A2-8D33-F6DD206398BA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Classes/UIComponents/Cards/CardSelector.cs">
+    <Files>
+      <File FileName="Classes/Recognition/ScreenshotTaker.cs" Line="13" Column="26" />
+      <File FileName="Classes/Recognition/TimedScreenshotTaker.cs" Line="1" Column="1" />
+      <File FileName="Classes/Recognition/VisualMatcher.cs" Line="1" Column="1" />
+      <File FileName="Classes/Ranking/PostSubmitter.cs" Line="1" Column="1" />
+      <File FileName="Classes/Player/HoldemPlayer.cs" Line="1" Column="1" />
+      <File FileName="Classes/Player/PlayerFactory.cs" Line="13" Column="79" />
+      <File FileName="Classes/Board/Board.cs" Line="1" Column="1" />
+      <File FileName="Classes/Board/HoldemBoard.cs" Line="1" Column="1" />
+      <File FileName="Classes/Calculator/HoldemOddsCalculator.cs" Line="56" Column="20" />
+      <File FileName="Classes/Card/Card.cs" Line="1" Column="1" />
+      <File FileName="Classes/Forms/FrmMain.cs" Line="181" Column="1" />
+      <File FileName="Classes/Database/PlayerDatabase.cs" Line="13" Column="16" />
+      <File FileName="Classes/Player/Player.cs" Line="82" Column="87" />
+      <File FileName="Classes/Statistics/Statistic.cs" Line="12" Column="34" />
+      <File FileName="Classes/Statistics/StatisticsData.cs" Line="1" Column="1" />
+      <File FileName="Classes/Statistics/StatisticsDescriptiveData.cs" Line="1" Column="1" />
+      <File FileName="Classes/Statistics/StatisticsNumberData.cs" Line="1" Column="1" />
+      <File FileName="Classes/Statistics/StatisticsOddsData.cs" Line="1" Column="1" />
+      <File FileName="Classes/Statistics/StatisticsPercentageData.cs" Line="1" Column="1" />
+      <File FileName="Classes/Statistics/StatisticsUnknownData.cs" Line="1" Column="1" />
+      <File FileName="Classes/Table/Table.cs" Line="22" Column="14" />
+      <File FileName="Classes/Calculator/OddsCalculator.cs" Line="10" Column="54" />
+      <File FileName="Classes/PokerClients/PokerClient.cs" Line="14" Column="17" />
+      <File FileName="Classes/PokerClients/PokerStars.cs" Line="13" Column="1" />
+      <File FileName="Classes/PokerClients/SealsWithClubs.cs" Line="1" Column="1" />
+      <File FileName="Classes/PokerClients/GDPoker.cs" Line="1" Column="1" />
+      <File FileName="Classes/Hud/Hud.cs" Line="15" Column="25" />
+      <File FileName="Classes/Settings/HudUserSettings.cs" Line="9" Column="11" />
+      <File FileName="Classes/UIComponents/Hud/HudIcon.cs" Line="1" Column="1" />
+      <File FileName="Classes/UIComponents/Hud/HoldemHudWindow.cs" Line="1" Column="1" />
+      <File FileName="Classes/UIComponents/Cards/CardButton.cs" Line="1" Column="1" />
+      <File FileName="Classes/UIComponents/Cards/CardSelector.cs" Line="29" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PokerMuck" expanded="True">
+            <Node name="PokerMuck" expanded="True">
+              <Node name="Classes" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Jo/Documents/GitHub/PokerMuck/PokerMuck/Classes/PokerMuckDirector.cs" relfile="Classes/PokerMuckDirector.cs" line="23" column="1" />
+      <Breakpoint file="/Users/Jo/Documents/GitHub/PokerMuck/PokerMuck/Classes/PokerClients/PokerClient.cs" relfile="Classes/PokerClients/PokerClient.cs" line="197" column="1" />
+      <Breakpoint file="/Users/Jo/Documents/GitHub/PokerMuck/PokerMuck/Classes/Settings/UserSettings.cs" relfile="Classes/Settings/UserSettings.cs" line="73" column="1" />
+      <Breakpoint file="/Users/Jo/Documents/GitHub/PokerMuck/PokerMuck/Classes/PokerMuckDirector.cs" relfile="Classes/PokerMuckDirector.cs" line="82" column="1" />
+      <Breakpoint file="/Users/Jo/Documents/GitHub/PokerMuck/PokerMuck/Classes/WindowsListener/WindowsListener.cs" relfile="Classes/WindowsListener/WindowsListener.cs" line="18" column="1" />
+      <Breakpoint file="/Users/Jo/Documents/GitHub/PokerMuck/PokerMuck/Classes/WindowsListener/WindowsListener.cs" relfile="Classes/WindowsListener/WindowsListener.cs" line="59" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PokerMuck PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
